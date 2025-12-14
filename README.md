@@ -17,7 +17,7 @@ Implementation of backpropagation algorithm for neural networks using Python, de
 - Neural Network forward propagation
 - Backpropagation algorithm
 - Gradient descent optimization
-- Activation functions (Sigmoid, ReLU)
+- Activation functions (Sigmoid,ReLU)
 
 ## Project Structure
 ```
